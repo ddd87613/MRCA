@@ -6,9 +6,6 @@ from sklearn.preprocessing import MinMaxScaler
 from datetime import datetime, timedelta
 import pytz
 import os
-
-import os
-import os
 import pandas as pd
 
 
